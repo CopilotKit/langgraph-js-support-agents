@@ -35,7 +35,7 @@ This project is organized as a monorepo using [Turborepo](https://turbo.build) a
 
 ## Getting Started
 
-1. Install all dependencies (this installs everything for both apps):
+1. Install all dependencies (this installs everything for the frontend and agent:
 ```bash
 pnpm install
 ```
@@ -46,7 +46,7 @@ cd apps/agent
 echo "OPENAI_API_KEY=your-openai-api-key-here" > .env
 ```
 
-3. Start the development servers:
+3. Start the development servers concurrently:
 ```bash
 pnpm dev
 ```
