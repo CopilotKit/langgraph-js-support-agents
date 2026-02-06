@@ -1,6 +1,9 @@
-![Demo](./copilotkit.gif)
 
-# Multi-Agent Telecom Support System
+
+https://github.com/user-attachments/assets/0a955c8e-d993-4577-9ca3-e510a544cb6e
+
+
+# LangGraphJS Multi-Agent Telecom Support System
 
 This is an intelligent customer support application built with [CopilotKit](https://copilotkit.ai) and [LangGraph](https://www.langchain.com/langgraph). It features a multi-agent AI system that handles customer inquiries, manages telecom services, and automatically escalates complex issues to human agents.
 
@@ -10,7 +13,6 @@ The system includes four specialized agents:
 - **Reply Agent** - Generates personalized responses based on context
 - **Escalation Agent** - Routes complex issues to appropriate support teams
 
-https://github.com/user-attachments/assets/49a9dd02-046b-49af-8631-88fcabfd1e19
 
 
 This project is organized as a monorepo using [Turborepo](https://turbo.build) and [pnpm workspaces](https://pnpm.io/workspaces).
